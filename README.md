@@ -16,6 +16,9 @@ this python code is based on increasing the accuracy detection of car's license 
 
 ## Few Scanned Images
 
+![2](https://github.com/samsaxas/Automated-Parking-System-using-Machine-Learning/assets/120178597/8d1e37aa-5981-463b-91f5-29429f07f053)
+
+
 ![3](https://github.com/samsaxas/Automated-Parking-System-using-Machine-Learning/assets/120178597/024d020d-4732-4254-8347-2f8794c6fa8e)
 
 
